@@ -16,3 +16,4 @@ Estudiante UANL
 
 ## Fase 2
 [Presentacion_ReglasdeAsociación_Equipo5](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Presentaci%C3%B3n_ReglasdeAsociaci%C3%B3n_Equipo5.pdf)
+[Preguntas Equipo 5](https://github.com/SebastianCanizales/SebastianCan/blob/main/Preguntas_Equipo5.pdf)
