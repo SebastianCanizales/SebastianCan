@@ -13,3 +13,6 @@ Estudiante UANL
 [Ejercicio Limpieza Equipo](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Ej_Limpieza_Equipo5.ipynb)
 
 [Avance 1 PIA](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Avance1_PIA_Equipo5.ipynb)
+
+## Fase 2
+[Presentacion_ReglasdeAsociación_Equipo5](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Presentaci%C3%B3n_ReglasdeAsociaci%C3%B3n_Equipo5.pdf)
