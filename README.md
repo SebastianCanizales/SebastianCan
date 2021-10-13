@@ -25,3 +25,5 @@ Estudiante UANL
 
 [Practica](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Pr%C3%A1ctica_Visualizaci%C3%B3n.ipynb)
 
+## Fase 3
+
