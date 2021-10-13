@@ -28,3 +28,5 @@ Estudiante UANL
 ## Fase 3
 
 [Ej.Técnica.Mineria](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ej_Tecnicas_Mineria.ipynb)
+
+[Ej.Técnica.Minera.incororecta](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ejercicio_de_t%C3%A9cnicas_de_miner%C3%ADa%201era%20base%20(no%20correcta).ipynb)
