@@ -32,3 +32,5 @@ Estudiante UANL
 [Ej.Técnica.Minera.incororecta](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ejercicio_de_t%C3%A9cnicas_de_miner%C3%ADa%201era%20base%20(no%20correcta).ipynb)
 
 [NOTEBOOK PIA](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/PREDICCI%C3%93N_DE_INSUFICIENCIA_CARDIACA.ipynb)
+
+[Poster sin Corregir](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/POSTER%20MINERIA.pdf)
